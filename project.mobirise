@@ -1,0 +1,1221 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Ilya_Wed",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#efefef",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 23,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/vkawards-2000x1333.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">ИЛЬЯ </span><span style=\"font-size: 4.39rem; line-height: 1.1;\">РАДЕЦКИЙ</span><br>",
+          "text": "Яркий, харизматичный медийный ведущий в Москве и по всему миру.<br>Счастливые гости с 2007 года.<br>Живой вокал в подарок!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ, СВОБОДНА ЛИ ДАТА?&nbsp;</a>  "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "&nbsp;(c) 2017"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box4-0",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/w4ecjCOxI2M",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Лexit один раз увидеть, чем 100 раз услышать. Наслаждайтесь!<br><br>Промо-видео.<br><div><br></div>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПРОВЕРИТЬ ДАТУ</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-2",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/6asqby0sz-y-1400x1866.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Обо мне",
+          "text": " Яркий, харизматичный, профессиональный медийный ведущий.<br><br>-&nbsp;Опыт ведения мероприятий - более 5 лет <br><br>-&nbsp;Опыт проведения масштабных мероприятий, например - самая большая музыкальная премия Санкт-Петербурга <br><br>-Телеканал СТС International – ведущий новостей, репортажи со светских мероприятий<br><br>- В качестве специального корреспондента &nbsp;делал серию репортажей о звездах танцевальной культуры Европы &nbsp;и США на Amsterdam Dance Event и Miami Winter Conference.<br><br>- Участник ТВ-шоу на Первом Канале, снимался в клипах известных артистов.&nbsp;<br><br> &nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ ВСТРЕЧУ</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features2-m",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "Акции и подарки",
+          "subtitle1": "",
+          "caption1": "При бронировании даты за 4-5 месяцев или дата выпадает на будний день живой вокал и дым-машина в подарок.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ ДАТУ</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "Сработанная команда",
+          "subtitle2": "",
+          "caption2": "Диджей, аппаратура, свет, декораторы, фотографы, видеографы, визажисты.<br>Помощь в подборе артистов -подрядчиков",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ПОСМОТРЕТЬ КОМАНДУ</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "presentation",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "Опыт работы в СМИ",
+          "subtitle3": "",
+          "caption3": "Опыт работы в крупных СМИ, как гарантия ответственности федерального масштаба. .",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">НАЗНАЧИТЬ ВСТРЕЧУ</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "Веду свадьбы на иностранном языке",
+          "subtitle4": "",
+          "caption4": "Отличное владение английским языком позволяет проводить мероприятия с иностранными гостями и по всему миру.",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LET'S PARTY!</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>“Спасибо, Илья ! Свадьба прошла на ураааа, по большей части благодаря тебе. Все было очень современно, весело, динамично, круто ! Мы и наши друзья остались очень довольны. Спаааасибоооооо!”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/bsz-16crmau-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Владислав и Юлия.",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>“Илья , спасибо за прекрасно проведенное мероприятие , все было очень здорово ! Успехов тебе”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/jjd7z0mhive1-136x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Дмитрий и Юлия",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>“Илья, Женя- спасибо огромное!!! Вы зажгли наш вечер позитивом и никто не скучал!!!</p><p>Свадьба удалась!”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/qozb7npwvq-160x120.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Алексей и Анна",
+              "authorBio": ""
+            }
+          ],
+          "_anchor": "testimonials1-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "ОТЗЫВЫ",
+          "subtitle": "Прекрасных пар, которые доверили проведение одного из главных дней своей жизни нашей команде"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-6",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Есть вопросы? Пишите",
+          "subtitle": "Буду рад личной встрече, всегда на связи и онлайн",
+          "form": {
+            "action": "atomiq@mail.ru",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">СВЯЗАТЬСЯ</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "24px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "ИЛЬЯ РАДЕЦКИЙ<br><br>#ведущийсчастливыхмероприятий",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/atomiq\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=w4ecjCOxI2M\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/ilyaatomiq/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/atomiq\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-l",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/10375254-emblem-of-hand-holding-microphone-stock-photo-128x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Медийный ведущий на свадьбу</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ОБО МНЕ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ОТЗЫВЫ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">КОНТАКТЫ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">+7(916) 774 15 91</a></li>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-b",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "paypal",
+              "family": "socicon",
+              "link": "радецкий.рф",
+              "size": 0,
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OVERVIEW</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info-outline btn-info\" href=\"https://mobirise.com/\">ИЛЬЯ РАДЕЦКИЙ +7916 774 15 91</a></li>"
+        },
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#b8312f"
+            }
+          },
+          "_anchor": "header1-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/uqlpn774luq-2000x1332.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">ИЛЬЯ </span><span style=\"font-size: 4.39rem; line-height: 1.1;\">РАДЕЦКИЙ</span><br>",
+          "text": "Ведущий счастливых мероприятий.<br> Довольные гости с 2007 года<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ СВОБОДНА ЛИ ДАТА +7(916)774 15 91</a>  "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-size": "24px",
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box4-e",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/w4ecjCOxI2M",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Опыт ведения мероприятий - более 5 лет<br>&nbsp;<div>Позитив и улыбка - в любой ситуации, в общении с каждым гостем&nbsp;</div><br><div><br></div>Свой диджей, сработанная команда, звук, свет, артисты<br><div><br></div>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://vk.com/video157376_456239129\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПРОВЕРИТЬ ДАТУ</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-f",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Индивидуальный подход",
+          "text": "После встречи со мной вы получите развернутый сценарий вашего торжества, разработанного исходя из ваших пожеланий.<br><br> &nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">СВЯЗАТЬСЯ +7(916)774 15 91</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p>“Спасибо, Илья ! Свадьба прошла на ураааа, по большей части благодаря тебе. Все было очень современно, весело, динамично, круто ! Мы и наши друзья остались очень довольны. Спаааасибоооооо!”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/bsz-16crmau-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Владислав и Юлия.",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>“Илья , спасибо за прекрасно проведенное мероприятие , все было очень здорово ! Успехов тебе”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/jjd7z0mhive1-136x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Дмитрий и Юлия",
+              "authorBio": ""
+            },
+            {
+              "text": "<p>“Илья, Женя- спасибо огромное!!! Вы зажгли наш вечер позитивом и никто не скучал!!!</p><p>Свадьба удалась!”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/qozb7npwvq-160x120.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Алексей и Анна",
+              "authorBio": ""
+            }
+          ],
+          "_anchor": "testimonials1-g",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "ОТЗЫВЫ",
+          "subtitle": "Прекрасных пар, которые доверили проведение одного из главных дней своей жизни нашей команде"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-j",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Есть вопросы? пишите",
+          "subtitle": "Буду рад личной встрече, всегда на связи и онлайн",
+          "form": {
+            "action": "atomiq@mail.ru",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">СВЯЗАТЬСЯ</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "24px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-k",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "ИЛЬЯ РАДЕЦКИЙ<br><br>#ведущийсчастливыхмероприятий",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
+        }
+      ]
+    }
+  }
+}
