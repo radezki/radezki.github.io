@@ -490,7 +490,7 @@
                   "linkInNewWindow": true
                 }
               },
-              "authorName": "Владислав и Юлия.<br><i>vk.<a href=\"https://vk.com/y.shkirya\" target=\"_blank\">com</a>/y.shkirya</i>",
+              "authorName": "Владислав и Юлия.<br><i><a href=\"https://vk.com/y.shkirya\" target=\"_blank\">vk.com/y.shkirya</a></i>",
               "authorBio": ""
             },
             {
@@ -872,7 +872,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Сообщение"
               }
             }
           },
