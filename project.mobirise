@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 27,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -52,7 +52,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-title SPAN": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1",
@@ -76,7 +76,7 @@
             "showButtons": true
           },
           "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">ИЛЬЯ </span><span style=\"font-size: 4.39rem; line-height: 1.1;\">РАДЕЦКИЙ</span><br>",
-          "text": "Яркий, харизматичный медийный ведущий в Москве и по всему миру.<br>Счастливые гости с 2007 года.<br>Живой вокал в подарок!",
+          "text": "Стильный, харизматичный медийный ведущий в Москве и по всему миру.<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Свободное владение английским языком.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ, СВОБОДНА ЛИ ДАТА?&nbsp;</a>  "
         },
         {
@@ -154,7 +154,7 @@
               "size": 250
             }
           },
-          "title": "Лexit один раз увидеть, чем 100 раз услышать. Наслаждайтесь!<br><br>Промо-видео.<br><div><br></div>",
+          "title": "Лучше один раз увидеть, чем 100 раз услышать. Наслаждайтесь!<br><br>Промо-видео.<br><div><br></div>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПРОВЕРИТЬ ДАТУ</a>"
         },
@@ -220,7 +220,7 @@
             }
           },
           "title": "Обо мне",
-          "text": " Яркий, харизматичный, профессиональный медийный ведущий.<br><br>-&nbsp;Опыт ведения мероприятий - более 5 лет <br><br>-&nbsp;Опыт проведения масштабных мероприятий, например - самая большая музыкальная премия Санкт-Петербурга <br><br>-Телеканал СТС International – ведущий новостей, репортажи со светских мероприятий<br><br>- В качестве специального корреспондента &nbsp;делал серию репортажей о звездах танцевальной культуры Европы &nbsp;и США на Amsterdam Dance Event и Miami Winter Conference.<br><br>- Участник ТВ-шоу на Первом Канале, снимался в клипах известных артистов.&nbsp;<br><br> &nbsp; &nbsp;",
+          "text": " Яркий, харизматичный, профессиональный медийный ведущий.<br><br>-&nbsp;Опыт ведения мероприятий - более 5 лет <br><br>-&nbsp;Опыт проведения масштабных мероприятий, например - самая большая музыкальная премия Санкт-Петербурга <br><br>-Сотрудничество с крупными СМИ: Телеканал СТС International – ведущий новостей, репортажи со светских мероприятий<br><br>- В качестве специального корреспондента &nbsp;делал серию репортажей о звездах танцевальной культуры Европы &nbsp;и США на Amsterdam Dance Event и Miami Music Week.<br><br>- Участник ТВ-шоу на Первом Канале, снимался в клипах известных артистов.&nbsp;<br><br>- Резидент Клуба Ведущих Москвы<br> &nbsp; &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ ВСТРЕЧУ</a>"
         },
         {
@@ -262,61 +262,61 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
-              "name": "gift",
+              "name": "star",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0
             }
           },
-          "title1": "Акции и подарки",
+          "title1": "Опыт работы в СМИ",
           "subtitle1": "",
-          "caption1": "При бронировании даты за 4-5 месяцев или дата выпадает на будний день живой вокал и дым-машина в подарок.<br><br>",
+          "caption1": "Опыт работы в крупных СМИ, как гарантия ответственности федерального масштаба.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ ДАТУ</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0
             }
           },
-          "title2": "Сработанная команда",
+          "title2": "Сплоченная команда",
           "subtitle2": "",
-          "caption2": "Диджей, аппаратура, свет, декораторы, фотографы, видеографы, визажисты.<br>Помощь в подборе артистов -подрядчиков",
-          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ПОСМОТРЕТЬ КОМАНДУ</a>",
+          "caption2": "Диджей, аппаратура, свет, декораторы, фотографы, видеографы, визажисты.<br>Помощь в подборе артистов, подрядчиков",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ОТЛИЧНО, БЕРЕМ!</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
-              "name": "presentation",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title3": "Опыт работы в СМИ",
-          "subtitle3": "",
-          "caption3": "Опыт работы в крупных СМИ, как гарантия ответственности федерального масштаба. .",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">НАЗНАЧИТЬ ВСТРЕЧУ</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "globe",
+              "name": "idea",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0
             }
           },
-          "title4": "Веду свадьбы на иностранном языке",
+          "title3": "&nbsp;Уникальная программа&nbsp;",
+          "subtitle3": "",
+          "caption3": "Вы получите, Индивидуальный сценарий , написанную специально для Вас. Как у &nbsp;резидента Клуба Ведущих Москвы у меня для Вас готов миллион неформальных идей,",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ИНТЕРЕСНО!</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title4": "Веду мероприятия на иностранном языке",
           "subtitle4": "",
-          "caption4": "Отличное владение английским языком позволяет проводить мероприятия с иностранными гостями и по всему миру.",
+          "caption4": "Отличное владение английским языком позволяет проводить мероприятия с иностранными гостями и по всему миру.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LET'S PARTY!</a>",
           "media5": {
             "iconFont": {
@@ -357,7 +357,19 @@
               "color": "#ffffff"
             },
             ".card-footer > div": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            },
+            ".card-footer > div SPAN": {
+              "color": "#faaf40",
+              "font-size": "17px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".card-footer > div I": {
+              "color": "#faaf40"
             }
           },
           "testimonial": [
@@ -370,13 +382,13 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "https://vk.com/y.shkirya",
                   "alt": "",
                   "title": "",
-                  "linkInNewWindow": false
+                  "linkInNewWindow": true
                 }
               },
-              "authorName": "Владислав и Юлия.",
+              "authorName": "Владислав и Юлия.<br><i>vk.<a href=\"https://vk.com/y.shkirya\" target=\"_blank\">com</a>/y.shkirya</i>",
               "authorBio": ""
             },
             {
@@ -388,13 +400,13 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "https://vk.com/id27687839",
                   "alt": "",
                   "title": "",
-                  "linkInNewWindow": false
+                  "linkInNewWindow": true
                 }
               },
-              "authorName": "Дмитрий и Юлия",
+              "authorName": "<p>Дмитрий и Юлия<br><a href=\"https://vk.com/id27687839\" target=\"_blank\">vk.com/id27687839</a><i></i></p>",
               "authorBio": ""
             },
             {
@@ -406,13 +418,13 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "https://vk.com/id40190131",
                   "alt": "",
                   "title": "",
-                  "linkInNewWindow": false
+                  "linkInNewWindow": true
                 }
               },
-              "authorName": "Алексей и Анна",
+              "authorName": "<p>Алексей и Анна<br><a href=\"https://vk.com/id40190131\" target=\"_blank\">vk.com/id40190131</a></p>",
               "authorBio": ""
             }
           ],
@@ -469,27 +481,27 @@
           "form": {
             "action": "atomiq@mail.ru",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Спасибо, я с Вами  скоро свяжусь!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Имя"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Email"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Телефон*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Сообщение"
               }
             }
           },
@@ -524,6 +536,41 @@
           },
           "text": "ИЛЬЯ РАДЕЦКИЙ<br><br>#ведущийсчастливыхмероприятий",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/atomiq\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=w4ecjCOxI2M\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/ilyaatomiq/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/atomiq\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box1-q",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "text": "Я угощу вас вкусным чаем или кофе, когда вы приедет ко мне на встречу в",
+          "title": "КЛУБ ВЕДУЩИХ"
         },
         {
           "_styles": {
@@ -594,22 +641,136 @@
           },
           "logo": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/10375254-emblem-of-hand-holding-microphone-stock-photo-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ecf-e4ugd5m-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://radezki.github.io/",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Медийный ведущий в Москве</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ОБО МНЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-4\" aria-expanded=\"true\">ОТЗЫВЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\" aria-expanded=\"true\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">+7(916) 774 15 91</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-o",
+          "_params": {
+            "googleMap": {
+              "address": "Малая Почтовая ул., 2/2, Москва, Россия, 105005",
+              "placeId": "ChIJ4y2sU301tUYRbFZ9RMeGHfk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-p",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Медийный ведущий на свадьбу</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ОБО МНЕ</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ОТЗЫВЫ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">КОНТАКТЫ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">+7(916) 774 15 91</a></li>"
+          "text1": "",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "right",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "text4": "",
+          "title1": "Разделы",
+          "text5": "<br><li>О ведущем</li><li>Отзывы</li><li>Видео</li><br>",
+          "text6": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Контакты</b></span></font><br><br>Телефон:+79773025724<br>WhatsApp: +79167741591<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Адрес</b></span></font><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "atomiq@mail.ru",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">СВЯЗАТЬСЯ</a>"
         }
       ]
     },

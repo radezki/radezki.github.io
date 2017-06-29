@@ -1,7 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
 
 
 
@@ -427,7 +431,7 @@ h6,
   color: #ffffff;
 }
 #header1-1 .mbr-section-title SPAN {
-  color: #b8312f;
+  color: #ffffff;
 }
 #msg-box4-0 H3 {
   font-size: 24px;
@@ -456,6 +460,16 @@ h6,
 }
 #testimonials1-4 .card-footer > div {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+#testimonials1-4 .card-footer > div SPAN {
+  color: #faaf40;
+  font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+}
+#testimonials1-4 .card-footer > div I {
+  color: #faaf40;
 }
 #form1-6 .form-control-label {
   color: #232323;
@@ -467,6 +481,9 @@ h6,
 #social-buttons2-7 .mbr-section-title {
   font-size: 24px;
   color: #ffffff;
+}
+#msg-box1-q H3 {
+  text-align: center;
 }
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
