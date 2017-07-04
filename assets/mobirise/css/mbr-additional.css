@@ -1,9 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
 
 
 
@@ -433,15 +434,6 @@ h6,
 #header1-1 .mbr-section-title SPAN {
   color: #ffffff;
 }
-#msg-box4-0 H3 {
-  font-size: 24px;
-  color: #ffffff;
-  font-family: 'Raleway', sans-serif;
-  text-align: left;
-}
-#msg-box4-0 DIV {
-  color: #ffffff;
-}
 #msg-box7-2 .mbr-section-title,
 #msg-box7-2 .lead p {
   color: #fff;
@@ -452,8 +444,22 @@ h6,
 #msg-box7-2 P {
   text-align: left;
 }
+#msg-box4-0 H3 {
+  font-size: 24px;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  text-align: left;
+}
+#msg-box4-0 DIV {
+  color: #ffffff;
+}
 #features2-m .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#features2-m .mbr-cards-col:nth-child(odd) .card-subtitle {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 #testimonials1-4 .mbr-section-title {
   color: #ffffff;

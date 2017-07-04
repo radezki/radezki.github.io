@@ -80,6 +80,71 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ, СВОБОДНА ЛИ ДАТА?&nbsp;</a>  "
         },
         {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-2",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/6asqby0sz-y-1400x1866.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Обо мне",
+          "text": " Яркий, харизматичный, профессиональный медийный ведущий.<br><br>-&nbsp;Опыт ведения мероприятий - более 5 лет <br><br>-&nbsp;Опыт проведения масштабных мероприятий, например - самая большая музыкальная премия Санкт-Петербурга <br><br>-Сотрудничество с крупными СМИ: Телеканал СТС International – ведущий новостей, репортажи со светских мероприятий<br><br>- В качестве специального корреспондента &nbsp;делал серию репортажей о звездах танцевальной культуры Европы &nbsp;и США на Amsterdam Dance Event и Miami Music Week.<br><br>- Участник ТВ-шоу на Первом Канале, снимался в клипах известных артистов.&nbsp;<br><br>- Резидент Клуба Ведущих Москвы<br> &nbsp; &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ ВСТРЕЧУ</a>"
+        },
+        {
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
@@ -159,71 +224,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ПРОВЕРИТЬ ДАТУ</a>"
         },
         {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-2",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "6",
-            "paddingBottom": "6",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/6asqby0sz-y-1400x1866.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Обо мне",
-          "text": " Яркий, харизматичный, профессиональный медийный ведущий.<br><br>-&nbsp;Опыт ведения мероприятий - более 5 лет <br><br>-&nbsp;Опыт проведения масштабных мероприятий, например - самая большая музыкальная премия Санкт-Петербурга <br><br>-Сотрудничество с крупными СМИ: Телеканал СТС International – ведущий новостей, репортажи со светских мероприятий<br><br>- В качестве специального корреспондента &nbsp;делал серию репортажей о звездах танцевальной культуры Европы &nbsp;и США на Amsterdam Dance Event и Miami Music Week.<br><br>- Участник ТВ-шоу на Первом Канале, снимался в клипах известных артистов.&nbsp;<br><br>- Резидент Клуба Ведущих Москвы<br> &nbsp; &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">ЗАБРОНИРОВАТЬ ВСТРЕЧУ</a>"
-        },
-        {
           "_inherit": "features1",
           "_tags": [
             "Theme"
@@ -232,6 +232,12 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff",
+              "font-size": "18px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "features2-m",
@@ -269,9 +275,9 @@
               "size": 0
             }
           },
-          "title1": "Опыт работы в СМИ",
-          "subtitle1": "",
-          "caption1": "Опыт работы в крупных СМИ, как гарантия ответственности федерального масштаба.<br><br>",
+          "title1": "",
+          "subtitle1": "<b>Уникальная программа&nbsp;</b>",
+          "caption1": "Вы получите, Индивидуальный сценарий написанный специально для Вас. Как у  резидента Клуба Ведущих Москвы у меня для Вас готов миллион неформальных идей.Опыт работы в крупных СМИ, как гарантия ответственности федерального масштаба.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ТО,ЧТО НУЖНО!</a>",
           "media2": {
             "iconFont": {
@@ -299,9 +305,9 @@
               "size": 0
             }
           },
-          "title3": "&nbsp;Уникальная программа&nbsp;",
+          "title3": "&nbsp;Опыт работы в СМИ&nbsp;",
           "subtitle3": "",
-          "caption3": "Вы получите, Индивидуальный сценарий написанный специально для Вас. Как у &nbsp;резидента Клуба Ведущих Москвы у меня для Вас готов миллион неформальных идей.",
+          "caption3": "Опыт работы в крупных СМИ, как гарантия ответственности федерального масштаба",
           "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ИНТЕРЕСНО!</a>",
           "media4": {
             "iconFont": {
@@ -411,10 +417,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cxs0l6x9go4-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cxs0l6x9go4-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ljp769czacu-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ljp769czacu-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -434,7 +440,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 0,
@@ -811,7 +817,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"radezki.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Медийный ведущий в Москве</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ОБО МНЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-0\" aria-expanded=\"false\">ВИДЕО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-4\" aria-expanded=\"false\">ОТЗЫВЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-6\" target=\"_blank\">+7(916) 774 15 91</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box7-2\">ОБО МНЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-0\" aria-expanded=\"false\">ВИДЕО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-4\" aria-expanded=\"false\">ОТЗЫВЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-6\" target=\"_blank\">+7(916) 774 15 91</a></li>"
         },
         {
           "_tags": [
@@ -983,7 +989,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"radezki.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Медийный ведущий в Москве</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ОБО МНЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-0\" aria-expanded=\"false\">ВИДЕО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-4\" aria-expanded=\"false\">ОТЗЫВЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-6\" target=\"_blank\">+7(916) 774 15 91</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box7-2\">ОБО МНЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-0\" aria-expanded=\"false\">ВИДЕО</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-4\" aria-expanded=\"false\">ОТЗЫВЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-6\" target=\"_blank\">+7(916) 774 15 91</a></li>"
         },
         {
           "_name": "header1",
