@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -277,7 +277,7 @@
           },
           "title1": "",
           "subtitle1": "<b>Уникальная программа&nbsp;</b>",
-          "caption1": "Вы получите, Индивидуальный сценарий написанный специально для Вас. Как у  резидента Клуба Ведущих Москвы у меня для Вас готов миллион неформальных идей.Опыт работы в крупных СМИ, как гарантия ответственности федерального масштаба.<br><br>",
+          "caption1": "Вы получите, Индивидуальный сценарий написанный специально для Вас. Как у  резидента Клуба Ведущих Москвы у меня для Вас готов миллион неформальных идей.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ТО,ЧТО НУЖНО!</a>",
           "media2": {
             "iconFont": {
@@ -607,6 +607,85 @@
           "title": "Посмотрите видео отзывы",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">ПОНРАВИЛОСЬ!</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-price-figure": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-w",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "ЦЕНЫ НА 2017 ГОД",
+          "subtitle": "",
+          "label1": "HOT!",
+          "title1": "БУДНИ",
+          "subtitle1": "",
+          "currency1": "",
+          "price1": "20000р.",
+          "period1": "",
+          "description1": "Вы получаете:<br><br>-индивидуальный сценарий,<br><br>- 6 часов работы ведущего,<br><br>-звуковое оборудование,<br><br>-музыкальное сопровождение от dj.",
+          "list1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
+          "label2": "HOT!",
+          "title2": "ПЯТНИЦА",
+          "subtitle2": "",
+          "currency2": "",
+          "price2": "25000",
+          "period2": "р.",
+          "description2": "Вы получаете:<br><br>-консультация по организации праздника,<br><br>-помощь в подборе артистов,<br><br>-индивидуальный сценарий,<br><br>-6 часов работы ведущего<br>,<br>-звуковое оборудование,<br><br>-музыкальное сопровождение от dj (6 часов)",
+          "list2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">СВЯЗАТЬСЯ</a>",
+          "label3": "HOT!",
+          "title3": "СУББОТА",
+          "subtitle3": "",
+          "currency3": "",
+          "price3": "от 35000р.",
+          "period3": "",
+          "description3": "Вы получаете:&nbsp;<br><br>-консультация по организации праздника,<br><br>-помощь в подборе артистов,<br><br>-индивидуальный сценарий,<br><br>-6 часов работы ведущего,<br><br>-звуковое оборудование,<br><br>-музыкальное сопровождение от dj (6 часов)<br>",
+          "list3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">БЕРЕМ!</a>",
+          "label4": "HOT!",
+          "title4": "ТИМБИЛДИНГ",
+          "subtitle4": "целый день",
+          "currency4": "",
+          "price4": "25000",
+          "period4": "р.",
+          "description4": "Вы получаете:<br><br>-разработка программы,<br><br>-помощь в подборе артистов,<br><br>-работа ведущего.",
+          "list4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">НРАВИТСЯ<br></a>"
         },
         {
           "_tags": [
