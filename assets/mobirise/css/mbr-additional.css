@@ -460,6 +460,10 @@ h6,
   color: #ffffff;
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
+  text-align: left;
+}
+#features2-m .mbr-cards-col:nth-child(even) .card-text {
+  color: #efefef;
 }
 #testimonials1-4 .mbr-section-title {
   color: #ffffff;
