@@ -209,7 +209,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/w4ecjCOxI2M",
+              "src": "https://youtu.be/D5cumHWgpms",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -281,7 +281,7 @@
             }
           },
           "title1": "",
-          "subtitle1": "<b>Уникальная программа&nbsp;</b>",
+          "subtitle1": "<b><span style=\"font-style: normal;\">Уникальная программа</span>&nbsp;</b>",
           "caption1": "Вы получите, Индивидуальный сценарий написанный специально для Вас. Как у  резидента Клуба Ведущих Москвы у меня для Вас готов миллион неформальных идей.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-6\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">ТО,ЧТО НУЖНО!</a>",
           "media2": {
@@ -399,6 +399,26 @@
                 "alt": ""
               },
               {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/qid0ml-oz3c-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/qid0ml-oz3c-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ljp769czacu-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ljp769czacu-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -408,16 +428,6 @@
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/qid0ml-oz3c-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/qid0ml-oz3c-2000x1332.jpg",
-                "caption": "Type caption here",
-                "active": false
               },
               {
                 "tags": "Animated",
@@ -431,14 +441,15 @@
                 "alt": ""
               },
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ljp769czacu-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ljp769czacu-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miguel-1374-2000x3000-800x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/miguel-1374-2000x3000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Responsive",
@@ -447,17 +458,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1-889-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-889-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/miguel-1374-2000x3000-800x576.jpg",
-                "image": "@PROJECT_PATH@/assets/images/miguel-1374-2000x3000.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
