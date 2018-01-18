@@ -392,10 +392,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-792-2000x1333-800x534.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-792-2000x1333-800x530.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-792-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -419,23 +419,23 @@
                 "active": false
               },
               {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc07142-2000x1407-800x562.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc07142-2000x1407.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-759-2000x1333-800x526.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-759-2000x1333-800x582.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-759-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc07142-2-2000x1407-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc07142-2-2000x1407.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
