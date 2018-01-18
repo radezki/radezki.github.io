@@ -481,6 +481,9 @@ h6,
 #testimonials1-4 .card-footer > div I {
   color: #faaf40;
 }
+#instagram-feed-block-x .inst__title {
+  font-size: 36px;
+}
 #form1-6 .form-control-label {
   color: #232323;
 }
