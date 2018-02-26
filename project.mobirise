@@ -24,7 +24,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 34,
-    "versionPublish": "4.5.2",
+    "versionPublish": "4.6.5",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -904,8 +904,8 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "text1": "<strong>Aдрес</strong><br>Малая Почтовая ул., 2/2, <br>Москва, Россия, 105005<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Контакты</b></span></font><br>Whats App: +79167741591<br>телефон: +79773025724",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Разделы</b></span></font></p><ul class=\"mbr-contacts__list\"><li>Обо мне</li><li>Фото</li><li>Отзывы</li><li>Видео отзывы</li><li>Контакты</li></ul>",
+          "text1": "<strong>Aдрес</strong><br>Малая Почтовая ул., 2/2, <br>Москва, Россия, 105005<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Контакты</b></span></font><br>Whats App\\Telegram: +79167741591<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><a href=\"page1.html#menu-b\">Разделы</a></b></span></font></p><ul class=\"mbr-contacts__list\"><li>Обо мне</li><li>Фото</li><li>Отзывы</li><li>Видео отзывы</li><li>Контакты</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "atomiq@mail.ru",
