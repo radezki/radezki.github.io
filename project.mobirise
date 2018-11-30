@@ -24,7 +24,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 34,
-    "versionPublish": "4.6.5",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -58,23 +58,23 @@
           },
           "_anchor": "header1-1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/vkawards-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-5118-2000x1333.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">ИЛЬЯ </span><span style=\"font-size: 4.39rem; line-height: 1.1;\">РАДЕЦКИЙ</span><br>",
           "text": "Яркий, харизматичный медийный ведущий в Москве и по всему миру.<br><span style=\"font-size: 1.5rem; line-height: 1.5;\">Свободное владение английским языком.</span><br>",
@@ -99,25 +99,25 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-2",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": 50,
             "paddingTop": "6",
             "paddingBottom": "6",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -152,13 +152,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "&nbsp;(c) 2017"
         },
@@ -182,25 +182,25 @@
           },
           "_anchor": "msg-box4-0",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -247,27 +247,27 @@
           },
           "_anchor": "features2-m",
           "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1577x1080.jpg",
+            "bgColor": "#475577",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1577x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#475577",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": true
           },
           "media1": {
             "iconFont": {
@@ -366,17 +366,11 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "0",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "filterBgColor": false,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
             "images": [
               {
+                "alt": "",
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -384,10 +378,10 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-792-2000x1333-800x561.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-792-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "active": false
               },
               {
+                "alt": "",
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -395,8 +389,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/qid0ml-oz3c-1-2000x1332-800x586.jpg",
                 "image": "@PROJECT_PATH@/assets/images/qid0ml-oz3c-1-2000x1332.jpg",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -409,6 +402,7 @@
                 "active": false
               },
               {
+                "alt": "",
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -416,10 +410,10 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-759-2000x1333-800x582.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-759-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "active": false
               },
               {
+                "alt": "",
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -427,10 +421,10 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ytvnstx4wr0-3-2000x1335-800x582.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ytvnstx4wr0-3-2000x1335.jpg",
                 "caption": "Type caption here",
-                "active": true,
-                "alt": ""
+                "active": true
               },
               {
+                "alt": "",
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -438,10 +432,10 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc07511-2-2000x1407-800x555.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc07511-2-2000x1407.jpg",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "active": false
               },
               {
+                "alt": "",
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -449,10 +443,10 @@
                 "thumb": "@PROJECT_PATH@/assets/images/miguel-1375-2000x3000-800x572.jpg",
                 "image": "@PROJECT_PATH@/assets/images/miguel-1375-2000x3000.jpg",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "active": false
               },
               {
+                "alt": "",
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -460,10 +454,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-889-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-889-2000x1333.jpg",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "active": false
               }
-            ]
+            ],
+            "spacing": "0",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-s",
           "articleLayout": false,
@@ -552,22 +552,22 @@
           ],
           "_anchor": "testimonials1-4",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
             "showImages": true,
             "showName": true,
             "showBio": true,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "bgColor": "#fff",
+            "bgColorRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": true
           },
           "title": "ОТЗЫВЫ",
           "subtitle": "Прекрасных пар, которые доверили проведение одного из главных дней своей жизни нашей команде"
@@ -580,25 +580,25 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-t",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -623,42 +623,42 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">ПОНРАВИЛОСЬ!</a>"
         },
         {
-          "_params": {
-            "token": "726221226.727bfe1.60065e5944e54c5692ab4b76e2fa1f9a",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Мой Instagram&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1674009533276856117_726221226\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">БОЛЬШЕ ФОТО<br></a>",
-          "display2": "display-2",
-          "display4": "display-4",
           "alias": "instagram-feed",
           "_tags": [
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-x",
           "_styles": {
             ".inst__title": {
               "font-size": "36px"
             }
-          }
+          },
+          "_anchor": "instagram-feed-block-x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "imagesPerRowGrid": 4,
+            "layoutGridRadio": true,
+            "rows": 2,
+            "imagesPerRowSlider": 4,
+            "layoutSliderRadio": false,
+            "spacing": 5,
+            "fullWidth": false,
+            "bgColor": "#fafafa",
+            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImageRadio": true,
+            "token": "726221226.727bfe1.60065e5944e54c5692ab4b76e2fa1f9a",
+            "overlay": false,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#efefef",
+            "showTitle": true,
+            "showMoreButton": true
+          },
+          "title": "Мой Instagram&nbsp;",
+          "display2": "display-2",
+          "display4": "display-4",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1674009533276856117_726221226\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">БОЛЬШЕ ФОТО<br></a>"
         },
         {
           "_tags": [
@@ -672,19 +672,19 @@
           },
           "_anchor": "form1-6",
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubTitle": true
           },
           "title": "Напишите мне",
           "subtitle": "Задайте свой вопрос или напишите когда и как с вами связаться",
@@ -736,13 +736,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#fff",
+            "bgColorRadio": false,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "ИЛЬЯ РАДЕЦКИЙ<br><br>#этотведущийпросто огонь",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/atomiq\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=w4ecjCOxI2M\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/ilyaatomiq/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/atomiq\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
@@ -802,17 +802,17 @@
           "_name": "menu",
           "_anchor": "menu-l",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -846,13 +846,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Aдрес</strong><br>Малая Почтовая ул., 2/2, <br>Москва, Россия, 105005<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Контакты</b></span></font><br>Whats App\\Telegram: +79167741591<br>",
           "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><a href=\"page1.html#menu-b\">Разделы</a></b></span></font></p><ul class=\"mbr-contacts__list\"><li>Обо мне</li><li>Фото</li><li>Отзывы</li><li>Видео отзывы</li><li>Контакты</li></ul>",
@@ -960,17 +960,17 @@
           "_name": "menu",
           "_anchor": "menu-b",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -1010,23 +1010,23 @@
           },
           "_anchor": "header1-c",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/uqlpn774luq-2000x1332.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/uqlpn774luq-2000x1332.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "title": "<br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">ИЛЬЯ </span><span style=\"font-size: 4.39rem; line-height: 1.1;\">РАДЕЦКИЙ</span><br>",
           "text": "Ведущий счастливых мероприятий.<br> Довольные гости с 2007 года<br>",
@@ -1039,13 +1039,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
         },
@@ -1069,25 +1069,25 @@
           },
           "_anchor": "msg-box4-e",
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1124,25 +1124,25 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-f",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": 50,
             "paddingTop": "6",
             "paddingBottom": "6",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1241,22 +1241,22 @@
           ],
           "_anchor": "testimonials1-g",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
             "showImages": true,
             "showName": true,
             "showBio": true,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
             "bgColor": "#fff",
+            "bgColorRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": true
           },
           "title": "ОТЗЫВЫ",
           "subtitle": "Прекрасных пар, которые доверили проведение одного из главных дней своей жизни нашей команде"
@@ -1312,22 +1312,22 @@
           ],
           "_anchor": "testimonials1-h",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
             "showImages": true,
             "showName": true,
             "showBio": true,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "bgColor": "#fff",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": true
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -1383,22 +1383,22 @@
           ],
           "_anchor": "testimonials1-i",
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
             "showImages": true,
             "showName": true,
             "showBio": true,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "bgColor": "#fff",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubtitle": true
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -1415,19 +1415,19 @@
           },
           "_anchor": "form1-j",
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
+            "bgColorRadio": true,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showSubTitle": true
           },
           "title": "Есть вопросы? пишите",
           "subtitle": "Буду рад личной встрече, всегда на связи и онлайн",
@@ -1479,13 +1479,13 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#fff",
+            "bgColorRadio": false,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "ИЛЬЯ РАДЕЦКИЙ<br><br>#ведущийсчастливыхмероприятий",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
